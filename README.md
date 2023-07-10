@@ -1,16 +1,12 @@
-### Hi there 👋
+# Ernesto Sanchez
+I'm Ernesto from Vancouver - Canada 🍁. I'm a Passionate Tech Enthusiast, Empowering the World with Code and Data Solutions.
 
-<!--
-**ernestosanchez1/ernestosanchez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+* 💻 Python, R, SQL
+* ⚛ Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn, Ploty
+* 📱 React Native
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Info
+* 📧 Email: ejsr13@gmail.com 
+* 📃  LinkedIn: https://www.linkedin.com/in/ernesto-sanchez1/
+* 🔗 Kaggle: https://www.kaggle.com/ernestosanchez
