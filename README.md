@@ -1,10 +1,10 @@
-# Ernesto Sanchez
+# Hey There! 👋
 I'm Ernesto from Vancouver - Canada 🍁. I'm a Passionate Tech Enthusiast, Empowering the World with Code and Data Solutions.
 
 ## Skills
 * 💻 Python, R, SQL
 * ⚛ Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn, Ploty
-* 📱 React Native
+* 📱 
 
 
 
