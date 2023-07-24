@@ -1,5 +1,5 @@
 # Hey There! 👋
-My name is Ernesto from Vancouver - Canada 🍁. I'm a Passionate Tech Enthusiast, Empowering the World with Code and Data Solutions.
+Hello! I'm Ernesto from Vancouver - Canada 🍁, a tech enthusiast with a passion for empowering the world through data. I specialize in Python, Machine Learning, SQL, Tableau, and Power BI. Let's connect and explore how we can collaborate on the next exciting project!
 
 ## Skills
 * 💻 Python, R, SQL
