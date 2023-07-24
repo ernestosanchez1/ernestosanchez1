@@ -1,10 +1,9 @@
 # Hey There! 👋
-Ny name is Ernesto from Vancouver - Canada 🍁. I'm a Passionate Tech Enthusiast, Empowering the World with Code and Data Solutions.
+My name is Ernesto from Vancouver - Canada 🍁. I'm a Passionate Tech Enthusiast, Empowering the World with Code and Data Solutions.
 
 ## Skills
 * 💻 Python, R, SQL
 * ⚛ Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn, Ploty
-* 📱 
 
 
 
@@ -37,7 +36,7 @@ Ny name is Ernesto from Vancouver - Canada 🍁. I'm a Passionate Tech Enthusias
 
 ## Info
 * 📧 Email: ejsr13@gmail.com
-* 🔗 Portfolio Website: https://www.kaggle.com/ernestosanchez
+* 🔗 Project Portfolio: https://ernestosanchez1.github.io/Portfolio.github.io/
 * 📃  LinkedIn: https://www.linkedin.com/in/ernesto-sanchez1/
 * 🔗 Kaggle: https://www.kaggle.com/ernestosanchez
 
