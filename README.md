@@ -2,9 +2,8 @@
 Hello! I'm Ernesto from Vancouver - Canada 🍁, a tech enthusiast with a passion for empowering the world through data. I specialize in Python, Machine Learning, SQL, Tableau, and Power BI. Let's connect and explore how we can collaborate on the next exciting project!
 
 ## Skills
-* Programming Languages: Python, R, SQL
+* Programming Languages: Python, R
 * Libraries: Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn, Ploty
-* Front-End:	HTML, CSS
 * Database:	MySQL, SQLite, MongoDB, PostgreSQL, BigQuery
 * Cloud Computing: Microsoft Azure
 * Miscellaneous: Git
