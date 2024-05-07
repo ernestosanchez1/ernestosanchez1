@@ -4,9 +4,10 @@ Hello! I'm Ernesto from Vancouver - Canada 🍁, a tech enthusiast with a passio
 ## Skills
 * Programming Languages: Python, R
 * Libraries: Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn, Ploty
-* Database:	MySQL, SQLite, MongoDB, PostgreSQL, BigQuery
-* Cloud Computing: Microsoft Azure
-* Miscellaneous: Git
+* Database:	MySQL, SQLite, MongoDB
+* Data Warehouse: Google BigQuery
+* Cloud Computing: GCP
+* Version Control: Git
 * BI Tools: Power BI, Tableau
 
 ###
